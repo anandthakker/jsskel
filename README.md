@@ -11,12 +11,9 @@ A skeleton JavaScript project using a common toolset
 
 ## Usage
 
-    git clone https://github.com/mapbox/jsskel.git
-    mv jsskel <project name>
-    cd <project name>
-    npm init
-    # Fill in the details
-    git remote set-url origin <your project URL>
+In a new directory, optionally run `git init` and set up a remote, and then:
+
+    curl -o- https://raw.githubusercontent.com/anandthakker/jsskel/master/bootstrap.sh | bash
 
 The following npm scripts are provided by package.json:
 
