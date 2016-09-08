@@ -22,8 +22,7 @@ The following npm scripts are provided by package.json:
 
 -   `npm run retire`: Check for vulnerable modules (run automatically as part of `npm test`)
 -   `npm run lint`: Run linting (run automatically as part of `npm test`)
--   `npm run docs-page`: Generate documentation from JSDoc comments. You should check in the resulting output, which is set up assuming you'll be publishing to GitHub pages.
--   `npm run docs-readme`: Generate documentation from JSDoc comments, and inject them into the README (this file), replacing the `## API` section.
+-   `npm run docs`: Generate documentation from JSDoc comments, and inject them into the README (this file), replacing the `## API` section.
 
 Feel free to adjust any of the defaults to taste after creating a new module.
 
