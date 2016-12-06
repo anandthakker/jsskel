@@ -9,7 +9,7 @@
     "prepublish": "npm run docs-readme"
   },
   "devDependencies": {
-    "documentation": "github:documentationjs/documentation#b1f288dab99ce0826743e0cdc8a6efab21e98967",
+    "documentation": "github:documentationjs/documentation#v4.0.0-beta15",
     "eslint": "^3.4.0",
     "eslint-config-standard": "^6.0.0",
     "eslint-plugin-promise": "^2.0.1",
